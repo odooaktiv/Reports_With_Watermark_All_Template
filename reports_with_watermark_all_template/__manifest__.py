@@ -15,7 +15,7 @@
     'license': 'AGPL-3',
     'price': 11.00,
     'currency': "EUR",
-    'category': 'report',
+    'category': 'Extra Tools',
     'version': '13.0.1.0.0',
     'depends': ['web'],
     'data': [
