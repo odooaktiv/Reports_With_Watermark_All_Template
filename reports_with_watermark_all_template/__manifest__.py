@@ -16,7 +16,7 @@
     'price': 11.00,
     'currency': "EUR",
     'category': 'Extra Tools',
-    'version': '13.0.1.0.0',
+    'version': '12.0.1.0.0',
     'depends': ['web'],
     'data': [
         'views/res_company_views.xml',
